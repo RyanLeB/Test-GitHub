@@ -322,7 +322,7 @@ GameObject:
   - component: {fileID: 1790166215}
   - component: {fileID: 1790166214}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: The 2nd Best Cube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
